@@ -1,5 +1,5 @@
 # Hi there 👋
-🙋🏻‍♂️Hi ! My name is Nhi and I'm a 232 years old Data Analyst/Scientist Junior from Paris
+🙋🏻‍♂️Hi ! My name is Nhi and I'm a 22-year-old Data Analyst/Scientist Junior in Paris
 
 👨🏻‍💻 Currently working at GAN Assurance, Groupama
 
